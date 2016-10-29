@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="list_tuoi">
+        <item>Ất Dậu</item>
+        <item>Ất Hợi</item>
+        <item>Ất Mão</item>
+        <item>Ất Mùi</item>
+        <item>Ất Sửu</item>
+        <item>Ất Tỵ</item>
+        <item>Bính Dần</item>
+        <item>Bính Ngọ</item>
+        <item>Bính Thân</item>
+        <item>Bính Thìn</item>
+        <item>Bính Tí</item>
+        <item>Bính Tuất</item>
+        <item>Canh Dần</item>
+        <item>Canh Ngọ</item>
+        <item>Canh Thân</item>
+        <item>Canh Thìn</item>
+        <item>Canh Tí</item>
+        <item>Canh Tuất</item>
+        <item>Giáp Dần</item>
+        <item>Giáp Ngọ</item>
+        <item>Giáp Thân</item>
+        <item>Giáp Thìn</item>
+        <item>Giáp Tí</item>
+        <item>Giáp Tuất</item>
+        <item>Kỷ Dậu</item>
+        <item>Kỷ Hợi</item>
+        <item>Kỷ Mão</item>
+        <item>Kỷ Mùi</item>
+        <item>Kỷ Sửu</item>
+        <item>Kỷ Tỵ</item>
+        <item>Mậu Dần</item>
+        <item>Mậu Ngọ</item>
+        <item>Mậu Thân</item>
+        <item>Mậu Thìn</item>
+        <item>Mậu Tí</item>
+        <item>Mậu Tuất</item>
+        <item>Nhâm Dần</item>
+        <item>Nhâm Ngọ</item>
+        <item>Nhâm Thân</item>
+        <item>Nhâm Thìn</item>
+        <item>Nhâm Tí</item>
+        <item>Nhâm Tuất</item>
+        <item>Quý Dậu</item>
+        <item>Quý Hợi</item>
+        <item>Quý Mão</item>
+        <item>Quý Mùi</item>
+        <item>Quý Sửu</item>
+        <item>Quý Tỵ</item>
+        <item>Tân Dậu</item>
+        <item>Tân Hợi</item>
+        <item>Tân Mão</item>
+        <item>Tân Mùi</item>
+        <item>Tân Sửu</item>
+        <item>Tân Tỵ</item>
+        <item>Đinh Dậu</item>
+        <item>Đinh Hợi</item>
+        <item>Đinh Mão</item>
+        <item>Đinh Mùi</item>
+        <item>Đinh Sửu</item>
+        <item>Đinh Tỵ</item>
+    </string-array>
+
+</resources>
